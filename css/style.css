@@ -1,0 +1,42 @@
+h1 {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+body, section, img {
+    width: 800px;
+    margin: auto;
+    margin-left: 24px;
+}
+
+figure,img {
+    margin: 0%;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+
+figcaption,p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #434343;
+    padding-top: 12px;
+}
+
+a{
+    color: #ff004c;
+}
+
+section {
+    margin-bottom: 64px;
+}
